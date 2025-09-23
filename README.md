@@ -36,5 +36,7 @@
 
 1. **Клонування репозиторію**  
    ```bash
-   git clone https://github.com/vrekunov2023/lab1.git
+   https://github.com/vrekunov2023/OOP_discipline.git
+   
+
 
