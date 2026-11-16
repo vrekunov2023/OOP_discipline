@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+testpaths = ["."]
+python_files = ["test_*.py"]
+markers = [
+    "unit: швидкі юніт-тести",
+    "slow: повільні тести",
+]
