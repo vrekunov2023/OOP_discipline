@@ -1,3 +1,5 @@
+[![Lab 5 Manual workflow](https://github.com/vrekunov2023/OOP_discipline/actions/workflows/manual-lab5.yml/badge.svg)](https://github.com/vrekunov2023/OOP_discipline/actions/workflows/manual-lab5.yml)
+
 # lab1
 Цей репозиторій містить навчальні роботи з програмування
 
