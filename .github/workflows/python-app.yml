@@ -14,7 +14,8 @@ on:
       - ".github/workflows/python-app.yml"
 
   workflow_dispatch:
-
+  schedule:
+    - cron: "17 7 * * 3"
 permissions:
   contents: read
 
