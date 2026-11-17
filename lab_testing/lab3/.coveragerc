@@ -1,0 +1,12 @@
+[run]
+source = app
+branch = true
+
+[report]
+show_missing = true
+omit =
+    test_*.py
+    */.venv/*
+
+exclude_lines =
+    pragma: no cover
